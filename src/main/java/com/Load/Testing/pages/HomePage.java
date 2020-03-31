@@ -23,7 +23,7 @@ public class HomePage extends BasePage {
 	@FindBy(name ="q")
 	public WebElement googleSearch;
     
-	//this is vinay
+	//this is vinay kumar reddy
 	
 	public void navigateTo(String search_content){
 		
